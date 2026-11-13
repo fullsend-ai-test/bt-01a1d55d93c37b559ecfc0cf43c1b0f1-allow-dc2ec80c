@@ -13,3 +13,5 @@ runtime: dummy
 agents:
     - name: pr-ping
       source: harness/pr-ping.yaml
+    - name: issue-only-ping
+      source: harness/issue-only-ping.yaml
