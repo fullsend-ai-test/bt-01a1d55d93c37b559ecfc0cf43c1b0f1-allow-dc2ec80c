@@ -10,8 +10,3 @@ tracker:
                 - fullsend-ai/fullsend
                 - fullsend-ai/agents
 runtime: dummy
-agents:
-    - name: pr-ping
-      source: harness/pr-ping.yaml
-    - name: issue-only-ping
-      source: harness/issue-only-ping.yaml
